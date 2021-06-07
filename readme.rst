@@ -1,6 +1,14 @@
 ###################
-What is CodeIgniter
+APCuppsd Multi UPS Warning
 ###################
+
+Application built on codeigniter framework. Called from the command line, by command
+    php index.php ups2 check 
+		
+Previous UPS status(s) are recorded in the database to respond to changes. The next text belongs directly to the used framework.
+
+
+
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
