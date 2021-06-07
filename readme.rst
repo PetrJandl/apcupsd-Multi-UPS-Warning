@@ -4,8 +4,8 @@ APCuppsd Multi UPS Warning
 
 Application built on codeigniter framework. Called from the command line, by command
     php index.php ups2 check 
-		
-Previous UPS status(s) are recorded in the database to respond to changes. The next text belongs directly to the used framework.
+
+The next text belongs directly to the used framework.
 
 
 
